@@ -3,10 +3,10 @@ Hey there! Welcome to my Codeforces C++ Solutions repository. Here, you'll find 
 
 ## 📂 Folder Structure
 
-- `Div{Division_ID}_{Problem_Name}.cpp`
+- `{Problem_ID}_{Problem_Name}.cpp`
 
 For example:
-- `Div2_A_Watermelon.cpp`: Solution for Codeforces Div2, problem A "Watermelon" in C++.
+- `A1_Watermelon.cpp`: Solution for Codeforces problem A1 "Watermelon" in C++.
 
 ## 🚀 How to Use
 
