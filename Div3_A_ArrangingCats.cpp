@@ -11,7 +11,7 @@ ostream &operator<<(ostream &os, const vector<S> &vector) {
     }
     re os;
 }
-oid solve() {
+void solve() {
     int n;
     cin >> n;
     string s, ss;
