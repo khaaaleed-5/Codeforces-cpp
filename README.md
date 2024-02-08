@@ -1,6 +1,6 @@
 # Codeforces-cpp
 - Hey there! Welcome to my Codeforces C++ Solutions repository. Here, you'll find my C++ implementations for various Codeforces problems.
-- Codeforces profile for more solutions :[profile](https://codeforces.com/profile/Khaaaleed_5).
+- Codeforces [profile](https://codeforces.com/profile/Khaaaleed_5) for more solutions.
 
 ## 📂 Folder Structure
 
